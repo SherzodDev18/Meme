@@ -1,0 +1,37 @@
+body{
+    background:#d4e7b4c2;;
+}
+
+.container{
+    background: #e0e8ef;
+    width: 48%;
+    height: 370px;
+    border-radius: 15px;
+    margin-left: 26%;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 9px;
+    margin-left: 10pc;
+    margin-top: 10px;
+}
+
+.btn{
+    width: 112px;
+    height: 39px;
+    border-radius: 13px;
+    border: 0;
+    font-family: monospace;
+    font-size: 20px;
+    margin-left: 31%;
+    background: #ffdab7;
+    cursor: pointer;
+}
+
+.text{
+    font-size: 17px;
+    font-family: monospace;
+    margin-left: 15px;
+}
